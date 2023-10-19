@@ -1,4 +1,4 @@
-# Project Title
+# LLM-based clinical coding for EMS applications
 
 ## Introduction
 For this project, we aim to de-risk and research the technical and strategic aspects of a key opportunity hypothesis: that Simwerx can build an effective automation solution for clinical coding in Emergency Medical Services (EMS). Here, we investigate ways to automate clinical coding with LLMs.
