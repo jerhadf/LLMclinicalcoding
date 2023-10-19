@@ -1,0 +1,55 @@
+# .gitignore file for a Python ML repo on a Mac
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Python build artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.egg-info/
+*.egg
+
+# Ignore Jupyter Notebook files
+.ipynb_checkpoints/
+
+# Ignore virtual environment files
+venv/
+ENV/
+
+# Ignore IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+*.bak
+
+# Ignore data files (may contain sensitive information)
+*.csv
+*.tsv
+*.xlsx
+*.json
+*.db
+*.sql
+*.sqlite3
+*.pkl
+
+# Ignore log files
+*.log
+
+# Ignore ML model files
+*.h5
+*.model
+*.pkl
+*.joblib
+*.pth
+*.pt
+*.onnx
